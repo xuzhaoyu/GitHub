@@ -1,0 +1,6 @@
+canvas{
+	position: absolute;
+	cursor: default;
+	border: 1px solid black;
+	background: black;
+}
